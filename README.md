@@ -1,2 +1,2 @@
 # tictactoegame
-this will our game.
+this will be our game.
